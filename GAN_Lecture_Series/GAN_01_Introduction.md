@@ -21,7 +21,7 @@ GAN stands for Generative Adversarial Network, which was first developed in 2014
 
 ## Basic idea of Generator 生成器的简单观念
 前面提到说对抗生成网络的最终目的是创造一个东西出来，而里面主要用来创造东西的机制就叫做：生成器。 它也是一个神经网络，接收一个向量然后输出一个对应的结果，如下图：
-![generator_demo.png](attachment:generator_demo.png)
+trash:///generator.png
 从图片年可以了解到这是一个简易的条件生成器 （Conditional Generation)，如果调整其中一个向量值，那么它的对应生成图片人物的头发就可能变长，类似这样的结果。
 
 ## Basic idea of Discriminator 分辨器的简单观念
